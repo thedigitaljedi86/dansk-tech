@@ -409,6 +409,16 @@
       ]
    },
    {
+      "name": "Sumoshop",
+      "url": "https://www.sumoshop.dk",
+      "description": "E-commerce platform, der tilbyder hostede webshopløsninger",
+      "alternatives": [
+         "Shopify",
+         "Magento",
+         "WooCommerce"
+      ]
+   }, 
+   {
       "name": "Timelog.com",
       "url": "https://timelog.com",
       "description": "Tidsregistrering, ressourcestyring og fakturering",
