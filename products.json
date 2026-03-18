@@ -23,6 +23,20 @@
       "image": "images/alunta.png"
    },
    {
+      "name": "Alviss AI",
+      "url": "https://alviss.io",
+      "description": "En dansk platform til Marketing Science der hjælper virksomheder med at identificere, simulere, prædiktere og optimere effecten af deres forskellige salgsgenererende aktiviteter som media, kommunikation or priser.",
+      "alternatives": [
+        "Google Analytics",
+        "Keen",
+        "LiftLab",
+        "Recast",
+        "Cassandra",
+        "Mutinex",
+        "MASS Analytics"
+      ]
+   }, 
+   {
       "name": "Arrigoo CDP",
       "url": "https://arrigoo.io",
       "description": "Europæisk hosted Customer Data Platform til at indsamle, konsolidere og distribuere profildata på tværs af systemer og segmentere på baggrund af adfærd og egenskaber.",
