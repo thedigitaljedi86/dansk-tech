@@ -872,6 +872,7 @@
     "url": "https://meilirobots.com/",
     "description": "Universal fleet management system for mobile robots, orchestrate your robots on one platform irregardless of type, brand, or model. Used across various industry segments.",
     "alternatives": [
+      "InOrbit", "Synaos", "Naise", "Formant", "Open-RMF", "Simens SiMove", "MHP"
     ]
   }   
 ]
