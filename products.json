@@ -23,6 +23,20 @@
       "image": "images/alunta.png"
    },
    {
+      "name": "Alviss AI",
+      "url": "https://alviss.io",
+      "description": "En dansk platform til Marketing Science der hjælper virksomheder med at identificere, simulere, prædiktere og optimere effecten af deres forskellige salgsgenererende aktiviteter som media, kommunikation or priser.",
+      "alternatives": [
+        "Google Analytics",
+        "Keen",
+        "LiftLab",
+        "Recast",
+        "Cassandra",
+        "Mutinex",
+        "MASS Analytics"
+      ]
+   }, 
+   {
       "name": "Arrigoo CDP",
       "url": "https://arrigoo.io",
       "description": "Europæisk hosted Customer Data Platform til at indsamle, konsolidere og distribuere profildata på tværs af systemer og segmentere på baggrund af adfærd og egenskaber.",
@@ -97,6 +111,12 @@
          "Bannerwise"
       ]
    },
+   {
+  "name": "Neuphlo",
+  "url": "https://neuphlo.com",
+  "description": "Projektstyring med indbygget testmanagement,vidensdeling og chatkanaler. Neuphlo kan tilgås via mcp server og har integration til GitHub, GitLab, Addo Sign",
+  "alternatives": ["Jira og Xray", "Linear", "ALM"]
+},
    {
       "name": "Clerk.io",
       "url": "https://clerk.io",
@@ -874,5 +894,13 @@
     "alternatives": [
       "InOrbit", "Synaos", "Naise", "Formant", "Open-RMF", "Simens SiMove", "MHP"
     ]
-  }   
+  },
+  {
+    "name": "freelio.dk",
+    "url": "https://freelio.dk",
+    "description": "Dansk alternativ til LinkedIn. Karriereværktøj. Rekrutteringsværktøj. Brandingværktøj. Meet-ups & Events.",
+    "alternatives": [
+      "LinkedIn"
+    ]
+  }
 ]
