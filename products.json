@@ -887,7 +887,15 @@
       "description": "Coherta er en B2B platform til virksomheds- og kontaktdata, der samler, beriger og deduplikerer data til leadgenerering, segmentering og CRM-synkronisering (fx outreach, pipeline og rapportering).",
       "alternatives": ["Bisnode/Dun & Bradstreet", "ZoomInfo", "Clearbit", "Lusha", "Apollo.io", "UpLead", "Lead411", "Snov.io", "Hunter.io", "Adapt.io", "LeadIQ", "DiscoverOrg", "InsideView", "LeadGenius", "LeadFuze", "LeadSift", "Leadspace", "LimeLeads"]
    },
-{
+   {
+    "name": "Meili Robots",
+    "url": "https://meilirobots.com/",
+    "description": "Universelt flådestyringssystem til mobile robotter, orkestrer dine robotter på én platform uanset type, mærke eller model. Bruges på tværs af forskellige industrisegmenter.",
+    "alternatives": [
+      "InOrbit", "Synaos", "Naise", "Formant", "Open-RMF", "Simens SiMove", "MHP"
+    ]
+  },
+  {
     "name": "freelio.dk",
     "url": "https://freelio.dk",
     "description": "Dansk alternativ til LinkedIn. Karriereværktøj. Rekrutteringsværktøj. Brandingværktøj. Meet-ups & Events.",
