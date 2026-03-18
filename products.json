@@ -112,6 +112,12 @@
       ]
    },
    {
+  "name": "Neuphlo",
+  "url": "https://neuphlo.com",
+  "description": "Projektstyring med indbygget testmanagement,vidensdeling og chatkanaler. Neuphlo kan tilgås via mcp server og har integration til GitHub, GitLab, Addo Sign",
+  "alternatives": ["Jira og Xray", "Linear", "ALM"]
+},
+   {
       "name": "Clerk.io",
       "url": "https://clerk.io",
       "description": "Personalisering og anbefalinger",
