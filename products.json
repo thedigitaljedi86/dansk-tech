@@ -10,6 +10,17 @@
       ]
    },
    {
+      "name": "Admin By Request",
+      "url": "https://www.adminbyrequest.com",
+      "description": "Endpoint Privilege Management med just-in-time administratorrettigheder, godkendelsesflows og audit logs til Windows, macOS og Linux.",
+      "alternatives": [
+         "BeyondTrust",
+         "CyberArk",
+         "Delinea",
+         "AutoElevate"
+      ]
+   },
+   {
       "name": "Alunta.com",
       "url": "https://alunta.com",
       "description": "Abonnementer, betalinger og fakturering",
