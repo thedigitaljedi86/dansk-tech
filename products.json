@@ -991,6 +991,16 @@
       ]
    },
    {
+      "name": "regrettable.eu",
+      "url": "https://regrettable.eu",
+      "description": "Drop-in fortrydelsesknap til EU-webshops. Gør det nemt at overholde EU-direktiv 2023/2673 med en letvægts-widget, automatiske bekræftelsesmails med leveringssporing og 10 års revisionslog.",
+      "alternatives": [
+         "Rescindly",
+         "Trusted Shops",
+         "Shopware Withdrawal Plugin"
+     ]
+   },
+   {
       "name": "companydata.dk",
       "url": "https://companydata.dk",
       "description": "Dansk virksomhedsdata med REST API, finansiel sundhedsscore (CDS), 13 års regnskabshistorik, ejendomsdata og realtidsovervågning af danske selskaber.",
