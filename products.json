@@ -1018,5 +1018,13 @@
       "alternatives": [
          "Shopify B2B, Commercetools, Sana Commerce"
       ]
+   },
+   {
+      "name": "easyonline.ai",
+      "url": "https://easyonline.ai",
+      "description": "Upload din hjemmeside lavet med AI for kun 9 kr om måneden",
+      "alternatives": [
+         "Wix, Loveable, Wordpress"
+      ]
    }
 ]
